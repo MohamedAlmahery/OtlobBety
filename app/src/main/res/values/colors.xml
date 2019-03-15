@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffff</color>
+    <color name="colorPrimary">#004d40</color>
+    <color name="colorPrimaryDark">#00251a</color>
+    <color name="colorAccent">#39796b</color>
+    <color name="signUp">#39796b</color>
+    <color name="signIn">#A9d440</color>
+    <color name="overlayBackground">#7f333639</color>
+    <color name="grey">#fd454545</color>
+    <color name="overlayActionbar">#0e0d0e</color>
+    <color name="bgRowBackground">#FA315B</color>
+    <color name="toolbarcolor">#FF0D0E0E</color>
+</resources>
