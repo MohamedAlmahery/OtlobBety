@@ -25,7 +25,7 @@
         <ImageView
             android:layout_width="200dp"
             android:layout_height="200dp"
-            android:src="@drawable/logo"
+            android:src="@mipmap/icon"
             android:layout_gravity="center|top"/>
 
         <com.rengwuxian.materialedittext.MaterialEditText
@@ -76,7 +76,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:gravity="center_vertical"
-            android:shadowColor="@color/bgRowBackground"
+            android:shadowColor="@color/colorPrimary"
             android:text="Remember me"
             android:textColor="@color/white"
             android:textColorHighlight="@color/common_google_signin_btn_text_dark_default"
