@@ -19,13 +19,11 @@
 
     <ImageView
         android:id="@+id/imgView_logo"
-        android:layout_width="250dp"
-        android:layout_height="250dp"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
         android:layout_centerHorizontal="true"
         android:scaleType="fitCenter"
-        android:src="@mipmap/icon"
-        tools:layout_editor_absoluteX="130dp"
-        tools:layout_editor_absoluteY="87dp" />
+        android:src="@mipmap/icon" />
 
     <TextView
         android:id="@+id/Makola"
@@ -48,7 +46,7 @@
 
         <info.hoang8f.widget.FButton
             android:id="@+id/signIn"
-            android:layout_width="200dp"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
             app:cornerRadius="@android:color/holo_orange_dark"
@@ -57,7 +55,7 @@
 
         <info.hoang8f.widget.FButton
             android:id="@+id/signUp"
-            android:layout_width="200dp"
+            android:layout_width="100dp"
             android:layout_height="wrap_content"
             android:layout_centerVertical="true"
             android:layout_alignParentLeft="true"
